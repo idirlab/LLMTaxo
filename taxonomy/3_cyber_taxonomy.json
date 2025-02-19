@@ -1,0 +1,273 @@
+{
+    "Emerging Trends": {
+        "AI": {
+            "Other": {}
+        },
+        "Cybersecurity Events": {
+            "Cybersecurity Predictions for 2024": {},
+            "RSA Conference 2024": {},
+            "Other": {},
+            "GISEC GLOBAL 2024": {},
+            "AI in Cybersecurity": {}
+        },
+        "Other": {},
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Artificial Intelligence": {
+            "Other": {}
+        },
+        "Technology": {
+            "Other": {}
+        },
+        "Cloud Security": {
+            "Cloud Repatriation": {},
+            "Other": {}
+        },
+        "Cybersecurity Startups": {
+            "Other": {}
+        }
+    },
+    "Education": {
+        "Cybersecurity Training": {
+            "Vulnerability Assessment and Penetration Testing Training": {},
+            "Vulnerability Assessment and Penetration Testing Training (from existing topics)": {},
+            "Vulnerability Assessment and Penetration Testing Training (VAPT)": {},
+            "Other": {}
+        },
+        "Other": {}
+    },
+    "Incident Management": {
+        "Digital Forensics": {
+            "Insights into Digital Forensics": {},
+            "Insights into Digital Forensics (not applicable)": {},
+            "Other": {}
+        },
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Cybersecurity Incidents": {
+            "London Drugs Cybersecurity Incident": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Data Breaches": {
+            "Other": {}
+        },
+        "Cybersecurity Events": {
+            "Other": {}
+        },
+        "Cybersecurity Threats": {
+            "Other": {}
+        }
+    },
+    "Policies and Governance": {
+        "Government Regulations": {
+            "Challenges in Cybersecurity Information Sharing": {},
+            "Cybersecurity Partnership Between Slovenia and U.S.": {},
+            "Cybersecurity Levy in Nigeria": {},
+            "Cybersecurity Regulations in Nigeria": {},
+            "Cybersecurity": {},
+            "NIST Cybersecurity Framework 2.0": {},
+            "Other": {}
+        },
+        "International Cooperation": {
+            "Challenges in Cybersecurity Information Sharing": {},
+            "Cybersecurity Partnership Between Slovenia and U.S.": {},
+            "Other": {}
+        },
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Other": {},
+        "Government Funding": {
+            "Other": {}
+        },
+        "Mergers and Acquisitions": {
+            "Other": {}
+        },
+        "Healthcare": {
+            "Other": {}
+        },
+        "Cybersecurity Legislation": {
+            "Other": {}
+        },
+        "Cybersecurity Frameworks": {
+            "Other": {}
+        }
+    },
+    "Threats": {
+        "Cybercrime": {
+            "Ransomware Attacks": {},
+            "Other": {}
+        },
+        "Cyberattacks": {
+            "Chinese Cyberattacks on Philippine Websites": {},
+            "Ransomware Attacks": {},
+            "Chinese Cyberattacks on Critical Infrastructure": {},
+            "Other": {}
+        },
+        "Phishing Attacks": {
+            "Phishing Examples": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Cybersecurity": {
+            "Ransomware Attacks": {},
+            "Other": {}
+        },
+        "Cybersecurity Events": {
+            "Other": {}
+        },
+        "Vulnerabilities": {
+            "Zero-Day Vulnerabilities": {},
+            "Other": {}
+        },
+        "Cybersecurity Risks": {
+            "Hospital Cybersecurity Risks": {},
+            "Other": {}
+        },
+        "Data Breaches": {
+            "Home Depot Data Breach": {},
+            "AT&T Data Breach": {},
+            "Other": {}
+        },
+        "Malware": {
+            "Other": {}
+        },
+        "Cybersecurity Threats": {
+            "Other": {}
+        },
+        "Cybersecurity Statistics": {
+            "Other": {}
+        },
+        "Cybersecurity Breaches": {
+            "Other": {}
+        }
+    },
+    "Other": {
+        "Other": {},
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Cybersecurity Solutions": {
+            "Other": {}
+        },
+        "Technology": {
+            "Other": {}
+        },
+        "International Cooperation": {
+            "Challenges in Cybersecurity Information Sharing": {},
+            "Cybersecurity Partnership Between Slovenia and U.S.": {},
+            "Other": {}
+        },
+        "Awards": {
+            "Other": {}
+        },
+        "Recycling and Disposal Policies": {
+            "Other": {},
+            "IT Equipment Disposal (Atlanta Corporate Electronics Recycling Program)": {}
+        },
+        "Zero-Day Vulnerabilities": {
+            "Other": {}
+        }
+    },
+    "Workforce": {
+        "Leadership": {
+            "Leadership Changes": {},
+            "Leadership Gaps": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Recruitment": {
+            "Other": {}
+        },
+        "Education": {
+            "Cybersecurity Training": {},
+            "Other": {}
+        },
+        "Job Opportunities": {
+            "Other": {}
+        },
+        "Cybersecurity Training": {
+            "Vulnerability Assessment and Penetration Testing Training": {},
+            "Vulnerability Assessment and Penetration Testing Training (from existing topics)": {},
+            "Other": {}
+        },
+        "Small Business Cybersecurity": {
+            "Other": {}
+        }
+    },
+    "Cybersecurity": {
+        "Other": {},
+        "Cybercrime": {
+            "Other": {}
+        },
+        "Ransomware": {
+            "Other": {}
+        }
+    },
+    "Security Solutions": {
+        "Data Protection": {
+            "Encrypted USB": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Network Security": {
+            "Other": {}
+        },
+        "Cloud Security": {
+            "Cloud Repatriation": {},
+            "Other": {}
+        },
+        "Cybersecurity Training": {
+            "Vulnerability Assessment and Penetration Testing Training": {},
+            "Other": {}
+        },
+        "Cybersecurity Tools": {
+            "Other": {}
+        },
+        "Email Security": {
+            "Other": {}
+        },
+        "Password Security": {
+            "Other": {}
+        },
+        "Tools": {
+            "Other": {}
+        },
+        "Cybersecurity": {
+            "Other": {}
+        },
+        "Penetration Testing": {
+            "Other": {}
+        },
+        "Vulnerability Assessment": {
+            "Other": {}
+        },
+        "Digital Forensics": {
+            "Insights into Digital Forensics": {},
+            "Other": {}
+        },
+        "AI": {
+            "Other": {}
+        },
+        "Endpoint Security": {
+            "Other": {}
+        },
+        "Application Security": {
+            "Other": {}
+        }
+    },
+    "Events": {
+        "Other": {},
+        "Cybersecurity Events": {
+            "RSA Conference 2024": {},
+            "Other": {},
+            "GISEC GLOBAL 2024": {}
+        }
+    }
+}

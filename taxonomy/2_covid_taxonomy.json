@@ -1,0 +1,277 @@
+{
+    "Political and Societal Implications": {
+        "Vaccine Injury": {
+            "Public Display of Vaccine Injuries": {},
+            "Support for Vaccine Injured": {},
+            "Investigation of Vaccine-Related Injuries": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Compensation for Vaccine Injuries": {},
+            "Other": {},
+            "Accountability for Vaccine Injuries": {},
+            "Opposition to Vaccine Mandates": {},
+            "Investigation of Manufacturers": {},
+            "Investigation of Vaccine-Related Deaths": {}
+        },
+        "Conspiracy Theories": {
+            "Vaccine Injury": {},
+            "Vaccine Profit Motives": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Investigation of Vaccine Manufacturers": {},
+            "Other": {},
+            "Censorship of Vaccine Information": {},
+            "Vaccine Misinformation": {},
+            "Opposition to Vaccine Mandates": {},
+            "Investigation of Vaccine Roll-Out": {},
+            "Censorship of Vaccine Discussions": {}
+        },
+        "Public Opinion": {
+            "Vaccine Acceptance": {},
+            "Other": {}
+        },
+        "Vaccine Policies": {
+            "Vaccine Fraud and Misrepresentation": {},
+            "Investigation of Vaccine Fraud": {},
+            "Vaccine Privacy": {},
+            "Vaccine Approval Processes": {},
+            "Vaccine Refusal": {},
+            "Other": {},
+            "Vaccine Mandates": {},
+            "Opposition to Vaccine Mandates": {},
+            "Investigation of Manufacturers": {}
+        },
+        "Vaccine Mandates": {
+            "Opposition to Vaccine Mandates": {}
+        },
+        "Vaccine Refusal": {
+            "Opposition to Vaccine Mandates": {},
+            "Other": {}
+        },
+        "Other": {}
+    },
+    "Government Policies": {
+        "Vaccine Policies": {
+            "Vaccine Recommendations": {},
+            "Vaccine Approval Processes": {},
+            "Vaccine Liability Issues": {},
+            "Vaccine Pricing Issues": {},
+            "Vaccine Recommendations for Children": {},
+            "Investigation of Vaccine Pricing": {},
+            "Vaccine Mandates for School Attendance": {},
+            "Investigation of Vaccine Fraud": {},
+            "Investigation of Vaccine Contracts": {},
+            "Incentives for Vaccination": {},
+            "Vaccine Mandates": {},
+            "Vaccine Approval for Children": {},
+            "Vaccine Travel Requirements": {},
+            "Vaccine Pricing and Accessibility": {},
+            "Withdrawal of Vaccine Recommendations": {},
+            "Vaccine Distribution Methods": {},
+            "Vaccine Acceptance": {},
+            "Vaccine Fraud and Misrepresentation": {},
+            "Investigation of Vaccine Procurement": {},
+            "Vaccine Transparency Issues": {},
+            "Vaccine Privacy": {},
+            "Vaccine Mandates for Travelers": {},
+            "Vaccine Mandates for Travel": {},
+            "Investigation of Vaccine Portal Security": {},
+            "Vaccine Refusal": {},
+            "Other": {},
+            "Vaccine Access for Uninsured Individuals": {},
+            "Vaccine Incentives for Healthcare Providers": {},
+            "Vaccine Availability for Children": {},
+            "Investigation of Manufacturers": {},
+            "Vaccine Booster Recommendations": {},
+            "Vaccine Exemptions": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Vaccine Distribution and Administration": {},
+            "Opposition to Vaccine Mandates": {},
+            "Vaccine Mandates for Children": {},
+            "Vaccine Approval Process": {},
+            "Investigation of Vaccine Approval Process": {},
+            "Vaccine Safety and Effectiveness": {},
+            "Emergency Use Authorization": {}
+        },
+        "Vaccine Mandates": {
+            "Opposition to Vaccine Mandates": {},
+            "Other": {}
+        },
+        "Vaccine Production": {
+            "Investigation of Manufacturers": {},
+            "Other": {}
+        },
+        "Vaccine Distribution and Administration": {
+            "Other": {}
+        },
+        "Other": {}
+    },
+    "Vaccine Safety and Effectiveness": {
+        "Vaccine Side Effects": {
+            "Vaccine Impact on Heart Disease": {},
+            "Cancer Side Effect": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Other": {},
+            "Menstrual Changes After Vaccination": {},
+            "Scientific and Medical Discussions": {},
+            "Investigation of Manufacturers": {},
+            "Myocarditis Side Effect": {}
+        },
+        "Vaccine Injury": {
+            "Investigation of Vaccine-Related Injuries": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Compensation for Vaccine Injuries": {},
+            "Other": {},
+            "Opposition to Vaccine Mandates": {},
+            "Investigation of Vaccine Administration": {},
+            "Investigation of Manufacturers": {},
+            "Investigation of Vaccine-Related Deaths": {}
+        },
+        "Other": {},
+        "Scientific and Medical Discussions": {
+            "Investigation of Vaccine Trials": {},
+            "Investigation of Vaccine Safety Claims": {},
+            "Vaccine Immunity Comparisons": {},
+            "Discussions about Gene Therapy": {},
+            "Discussions about Vaccine Safety": {},
+            "Discussions about Vaccine Testing": {},
+            "Discussions about Pregnancy and Vaccination": {},
+            "Discussions about Vaccine Trials": {},
+            "Discussions about Vaccine Development Speed": {},
+            "Discussions about Vaccine Data": {},
+            "Discussions about Vaccine Effectiveness": {},
+            "Investigation of Vaccine Safety Findings": {},
+            "Other": {},
+            "Discussions about Vaccine Efficacy": {},
+            "Discussions about Long COVID": {},
+            "Discussions about Clinical Trials": {},
+            "Discussions about Natural Immunity": {},
+            "Discussions about Hepatitis": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Investigation of Vaccine Safety": {},
+            "Discussions about Long Covid": {},
+            "Discussions about Vaccine Recommendations": {}
+        },
+        "Vaccine-Related Injuries and Deaths": {
+            "Unexpected Deaths Post-Vaccine": {},
+            "Investigation of Vaccine Batches": {},
+            "Increased Deaths Post-Vaccine Rollout": {},
+            "Vaccine Injury": {},
+            "Investigation of Vaccine Deaths": {},
+            "Vaccine Dose Fatality Rate": {},
+            "Economic Impact of Vaccines": {},
+            "Excess Deaths Post-Vaccination": {},
+            "Other": {},
+            "Vaccine Impact on Children": {},
+            "Excess Deaths Linked to Vaccination": {},
+            "Vaccine Impact on Mortality": {},
+            "Investigation of Vaccine-Related Deaths": {},
+            "Excess Deaths Linked to COVID Vaccine": {}
+        },
+        "Vaccine Policies": {
+            "Vaccine Privacy": {},
+            "Vaccine Liability Issues": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Vaccine Refusal": {},
+            "Other": {},
+            "Opposition to Vaccine Mandates": {},
+            "Vaccine Approval for Children": {},
+            "Vaccine Recommendations for Children": {},
+            "Investigation of Manufacturers": {}
+        },
+        "Vaccine Impact": {
+            "Vaccine Impact on Mortality Rates": {},
+            "Vaccine Impact on Heart Disease": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Other": {},
+            "Vaccine Impact on Public Health": {},
+            "Vaccine Impact on Lives Saved": {},
+            "Vaccine Impact on Lives": {},
+            "Vaccine Impact on Hospitalization and Death": {}
+        },
+        "Vaccine Acceptance": {
+            "Other": {}
+        },
+        "Vaccine Effectiveness": {
+            "Pfizer Vaccine Effectiveness Data": {},
+            "Other": {}
+        },
+        "Public Opinion": {
+            "Vaccine Acceptance": {},
+            "Other": {}
+        }
+    },
+    "Personal Experiences and Opinions": {
+        "Vaccine Refusal": {
+            "Opposition to Vaccine Mandates": {},
+            "Other": {}
+        },
+        "Vaccine Acceptance": {
+            "Vaccine Refusal": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Vaccine Injury": {
+            "Vaccine-Related Injuries and Deaths": {},
+            "Other": {}
+        }
+    },
+    "Public Opinion": {
+        "Vaccine Acceptance": {
+            "Vaccine-Related Injuries and Deaths": {},
+            "Vaccine Refusal": {},
+            "Other": {}
+        },
+        "Other": {}
+    },
+    "Vaccine Distribution and Administration": {
+        "Vaccine Impact": {
+            "Vaccine Waste and Disposal": {},
+            "Vaccine Waste and Expiration": {},
+            "Vaccine Access for Vulnerable Populations": {},
+            "Vaccine Impact on Heart Disease": {},
+            "Vaccine-Related Injuries and Deaths": {},
+            "Availability of COVID-19 Vaccines": {},
+            "Other": {},
+            "Vaccine Impact on Public Health": {},
+            "Vaccine Clinics for Children": {},
+            "Successful COVID Vaccination Drive": {},
+            "Vaccine Impact on Lives Saved": {},
+            "Spring COVID-19 Vaccine Booking": {},
+            "Vaccine Impact on Hospitalization and Death": {}
+        },
+        "Vaccine Policies": {
+            "Vaccine Booster Recommendations": {},
+            "Vaccine Privacy": {},
+            "Other": {},
+            "Vaccine Access for Uninsured Individuals": {},
+            "Vaccine Eligibility for Children": {},
+            "Vaccine Approval for Children": {},
+            "Vaccine Availability for Children": {}
+        },
+        "Other": {}
+    },
+    "Vaccine Production": {
+        "Vaccine Manufacturing": {
+            "Patent-Free Vaccine Technology": {},
+            "mRNA Vaccine Development": {},
+            "New Vaccine Development": {},
+            "Vaccine Pricing and Costs": {},
+            "Other": {},
+            "Vaccine Pricing Issues": {},
+            "Investigation of Manufacturers": {},
+            "Approval of mRNA Vaccines": {}
+        },
+        "Vaccine Policies": {
+            "Investigation of Manufacturers": {},
+            "Emergency Use Authorization": {},
+            "Other": {}
+        },
+        "Other": {},
+        "Vaccine Pricing": {
+            "Other": {}
+        },
+        "Vaccine Development": {
+            "Other": {}
+        }
+    },
+    "Other": {}
+}
