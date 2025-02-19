@@ -93,6 +93,6 @@ def rm_line(infile, outfile):
                 f.writelines(d)
 
 get_tweets("./dataset/covid19vax.json", "./dataset/covid19vax_CB.json")
-get_tweets_from_json('../ClaimResolutionData/covid19vax_CB.json', './dataset/covid_posts_for_clustering.txt')
-get_posts_from_csv('../ClaimResolutionData/crowdtangle/cybersecurity_010124-050724.csv', './dataset/cyber_posts_for_clustering.txt')
-get_posts_from_csv("../ClaimResolutionData/crowdtangle/climate_010124-050724.csv", "./dataset/climate_posts_for_clustering.txt")
+get_tweets_from_json('./dataset/covid19vax_CB.json', './dataset/covid_posts_for_clustering.txt')
+get_posts_from_csv('./dataset/cybersecurity_010124-050724.csv', './dataset/cyber_posts_for_clustering.txt')
+get_posts_from_csv("./dataset/climate_010124-050724.csv", "./dataset/climate_posts_for_clustering.txt")

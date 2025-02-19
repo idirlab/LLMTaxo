@@ -124,20 +124,20 @@ def clustering(data, outfile, min_size):
 
 
 if __name__ == "__main__":
-    # tweets_list = get_clean_tweets('../ClaimResolutionData/covid19vax_CB.json')
+    # tweets_list = get_clean_tweets('./dataset/covid19vax_CB.json')
 
 
     # read from .txt
-    # tweets_list = get_data('../ClaimResolutionData/covid_posts_for_clustering.txt')
-    # tweets_list = get_data('../ClaimResolutionData/cyber_posts_for_clustering.txt')
-    tweets_list = get_data('../ClaimResolutionData/climate_posts_for_clustering.txt')
+    # tweets_list = get_data('./dataset/covid_posts_for_clustering.txt')
+    # tweets_list = get_data('./dataset/cyber_posts_for_clustering.txt')
+    tweets_list = get_data('./dataset/climate_posts_for_clustering.txt')
 
     # tweets_list = tweets_list[:1000]
     # for i in range(10):
     #     print(tweets_list[i])
     #     print("\n")
     # print(len(tweets_list))
-    # clustering(tweets_list, '../ClaimResolutionData/covid_clustering_results.json', 3)
-    # clustering(tweets_list, '../ClaimResolutionData/cyber_clustering_results.json', 2)
-    clustering(tweets_list, '../ClaimResolutionData/climate_clustering_results.json', 2)
+    # clustering(tweets_list, './dataset/covid_clustering_results.json', 3)
+    # clustering(tweets_list, './dataset/cyber_clustering_results.json', 2)
+    clustering(tweets_list, './dataset/climate_clustering_results.json', 2)
 
