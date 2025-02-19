@@ -4,7 +4,7 @@
 ## Note
 Due to the privacy issue of social media platforms, we only release tweet id for COVID-19 vaccine dataset. 
 
-The final taxonmies are privided in "taxonomy" folder.
+The final taxonmies are provided in "taxonomy" folder.
 
 ![LLMTaxo Framework](./framework.png)
 
@@ -30,6 +30,7 @@ Load data and retrive social media posts that have a ClaiimBuster score > 0.5
 ### Topic Generation
 
 `python zephyr_infer.py`
+
 `python gpt_infer.py`
 
 ### Taxonomy Construction
