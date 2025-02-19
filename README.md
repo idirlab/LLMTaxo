@@ -8,13 +8,13 @@ The final taxonmies are privided in "taxonomy" folder.
 
 ![LLMTaxo Framework](./framework.png)
 
-## Create the environment
+## Create the Environment
 conda env create -f environment.yml
 
-## Perform the framework
+## Perform the Framework
 We follow the steps in the framework to build the taxonomy.
 
-### Data preprocessing
+### Data Preprocessing
 Load data and retrive social media posts that have a ClaiimBuster score > 0.5
 
 `python posts_preprocess.py`
