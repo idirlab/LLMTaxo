@@ -138,6 +138,6 @@ if __name__ == "__main__":
     #     print("\n")
     # print(len(tweets_list))
     # clustering(tweets_list, '../ClaimResolutionData/covid_clustering_results.json', 3)
-    # clustering(tweets_list, '../ClaimResolutionData/cyber_clustering_results.json', 3)
-    clustering(tweets_list, '../ClaimResolutionData/climate_clustering_results.json', 3)
+    # clustering(tweets_list, '../ClaimResolutionData/cyber_clustering_results.json', 2)
+    clustering(tweets_list, '../ClaimResolutionData/climate_clustering_results.json', 2)
 

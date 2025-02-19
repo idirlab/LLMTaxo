@@ -3,8 +3,6 @@ import numpy as np
 import json
 import re
 # import jsonlines
-from heapq import heappop
-from heapq import heapify
 from tqdm import tqdm
 # import nltk.data
 from helpers import is_English, clean_text, split_sentences, apply_claimbuster
