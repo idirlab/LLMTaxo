@@ -14,7 +14,6 @@ claimbuster_headers = {"x-api-key": 'claimbuster-api-key'}
 # claimbuster_api = requests.session()
 # claimbuster_api.keep_alive = False
 def apply_claimbuster(input_claim):
-    # api_endpoint = f"http://192.168.1.13/claimbuster-prod/api/v2/score/text/{input_claim}"
     api_endpoint = f"https://idir.uta.edu/claimbuster//api/v2/score/text/{input_claim}"
     # response = claimbuster_api.get(url=api_endpoint, headers=claimbuster_headers)
     response = requests.get(url=api_endpoint, headers=claimbuster_headers)

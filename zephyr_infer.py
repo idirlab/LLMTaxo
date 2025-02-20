@@ -3,9 +3,6 @@ import pandas as pd
 import csv
 from transformers import pipeline
 
-# import os
-# os.environ['TRANSFORMERS_CACHE'] = '/work/08447/haiqi/cache/'
-
 # to run on different datasets: change three files names, change the two prompt, and change the index of the tweet in the for loop
 
 def get_prompt_examples():
