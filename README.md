@@ -1,12 +1,12 @@
 
 # LLMTaxo
 
+![LLMTaxo Framework](./framework.png)
+
 ## Note
 Due to the privacy issue of social media platforms, we only release tweet id for COVID-19 vaccine dataset. 
 
-The final taxonmies are provided in "taxonomy" folder.
-
-![LLMTaxo Framework](./framework.png)
+The final taxonmies and the learning examples for LLM prompt are provided in "taxonomy" folder.
 
 ## Create the Environment
 conda env create -f environment.yml
