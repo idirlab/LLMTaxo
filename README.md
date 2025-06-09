@@ -46,7 +46,7 @@ Consolidate the generated topics to construct a taxonomy.
 `python build_taxonomy.py`
 
 ### GPT Evaluation
-Use GPT-4 to evaluate the quality of claim-topic pairs. 
+Use GPT-4 to evaluate the quality of taxonomy and claim-topic pairs. 
 
 `python gpt_evaluation.py`
 

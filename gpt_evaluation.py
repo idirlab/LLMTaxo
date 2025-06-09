@@ -14,8 +14,8 @@ def predict(msg):
     return response.choices[0].message.content
 
 
-if __name__ == "__main__":
-    df = pd.read_excel('./covid_eval.xlsx')
+def eval_claim_topic(infile, outfile):
+    df = pd.read_excel(infile)
     df.head()
     A, B = [], []
     for idx, row in df.iterrows():
@@ -88,4 +88,57 @@ if __name__ == "__main__":
     # add A and B to the dataframe
     df['accuracy'] = A
     df['granularity'] = B
-    df.to_csv('./covid_eval_results.csv', index=False)
+    df.to_csv(outfile, index=False)
+
+def eval_taxonomy(infile):
+    with open(infile, 'r') as f:
+        taxonomy = json.load(f)
+
+    user = [{
+        "role": "user",
+        "content": f"""
+            I've used LLMs to construct a taxonomy of social media posts related to covid-19 vaccine. Please evaluate the taxonomy in the json format using the evaluation metrics provided. Give each evaluation criteria a score from 1-5. 
+        *********************************
+            below is the taxonomy:
+            {taxonomy}
+
+    *******************************
+    Here are the metrics:
+    1.	Taxonomy Evaluation Metrics
+Give score from [1-5] 5: best/strongly agree, 1: worst/strongly disagree
+Clarity Assess whether the topic labels are clear, precise, and unambiguous. Purpose: Ensure that each topic label communicates its content effectively to avoid confusion. Evaluation Criteria:
+•	Precision: Each topic label uses specific and well-defined terms.
+o	Score: 
+•	Unambiguity: Topic labels should have only one interpretation, preventing misunderstanding.
+o	Score: 
+•	Consistency: Use of terminology is consistent across all levels of the taxonomy.
+o	Score:
+•	Accessibility: Language is straightforward, avoiding jargon where possible unless it is standard within the covered domain.
+o	Score:
+Hierarchical Coherence Assess whether the taxonomy follows a clear and meaningful hierarchical structure. Purpose: Ensure that the taxonomy’s structure facilitates easy navigation and understanding by clearly organizing information from the most general to the most specific. Evaluation Criteria:
+•	Gradational Specificity: There is a logical progression from broader to more specific categories.
+o	Score:
+•	Parent-Child Coherence: Parent-child relationships are well-formed, ensuring that child nodes logically belong to their parent nodes.
+o	Score:
+•	Consistency: The hierarchy maintains consistent levels of detail throughout the taxonomy, ensuring that no topics are too broad or too narrow relative to others at the same level.
+o	Score:
+Orthogonality Assess whether the topics are well-differentiated without duplication. Purpose: Maintain distinct boundaries between topics to ensure that each topic captures unique aspects of the domain. Evaluation Criteria:
+•	Distinctiveness: Topics at each level progressively add meaningful distinctions rather than just rephrasing broader topics.
+o	Score:
+•	Non-overlap: For each topic, there is minimal to no overlap in the scope or content with other topics. Note that the topics with different parent topics are always different. For example, the medium topic “Vaccine Safety” under broad topic “Public Opinion” is essentially “Public Opinion about Vaccine Safety” and distinctly different from “Vaccine Safety” under “Government Policies.” To minimize redundancy, we use succinct descriptions that are sufficient to convey the distinct meaning of each topic.
+o	Score:
+Completeness Assess whether the taxonomy captures a broad and representative set of topics across different aspects of the domain. Purpose: Cover as many areas of the topic to ensure the taxonomy is comprehensive. Evaluation Criteria:
+•	Domain Coverage: The taxonomy covers a variety of significant aspects of the domain it represents.
+o	Score:
+•	Depth: The taxonomy provides sufficient depth in each branch to capture nuanced distinctions within topics.
+o	Score:
+•	Balance: The topics are evenly distributed across the taxonomy. This involves assessing whether some branches are disproportionately detailed while others are underdeveloped, which could lead to an imbalance that might skew the taxonomy’s effectiveness and navigability.
+o	Score:
+        """
+    }]
+    ans = predict(user)
+    print(ans)
+
+if __name__ == "__main__":
+    eval_claim_topic('./covid_eval.xlsx', './covid_eval_results.csv')
+    eval_taxonomy('./dataset/covid_taxonomy_gpt.json')

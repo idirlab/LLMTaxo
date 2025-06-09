@@ -1,0 +1,98 @@
+{
+    "Policies and Governance": {
+        "Government Climate Action": [
+            "Other",
+            "Infrastructure and Climate Mitigation",
+            "Global Food Security"
+        ],
+        "International Climate Cooperation": [
+            "Government Climate Action",
+            "Infrastructure and Climate Mitigation",
+            "Other",
+            "Renewable Energy",
+            "Global Food Security"
+        ],
+        "Government Climate Action\n": [],
+        "International Climate Cooperation\n": []
+    },
+    "Activism and Public Awareness": {
+        "Protests": [],
+        "Climate Advocacy": [
+            "Government Climate Action",
+            "Other",
+            "Climate Change Denial",
+            "Impact on Children",
+            "Climate Action",
+            "Climate Protests in National Archives",
+            "Community Climate Action",
+            "Policies and Governance",
+            "Public Awareness"
+        ],
+        "Climate Advocacy\n": [],
+        "Other": []
+    },
+    "Mitigation Solutions": {
+        "Ecosystem Restoration": [
+            "Coastal Ecosystem Restoration",
+            "Other"
+        ],
+        "Renewable Energy": [
+            "Biodiesel",
+            "Nuclear Power",
+            "Other",
+            "Solar Power"
+        ],
+        "Renewable Energy\n": [],
+        "Other": []
+    },
+    "Scientific Research": {
+        "Impact of Climate Change": [
+            "Polar Regions",
+            "Global Warming",
+            "Other",
+            "Agriculture",
+            "Marine Biodiversity",
+            "Global Food Security"
+        ],
+        "Impact of Climate Change\n": []
+    },
+    "Economic and Social Impacts": {
+        "Agriculture": [],
+        "Public Health": [
+            "Impact of Climate Change",
+            "Climate Change and Health",
+            "Other",
+            "Deaths Due to Heatwaves",
+            "Deaths Due To Heatwaves",
+            "Climate Change and Mental Health",
+            "Impact on Children"
+        ],
+        "Other": [],
+        "Public Health\n": [],
+        "Climate Change Impacts": []
+    },
+    "Environmental Impact": {
+        "Global Warming": [
+            "Polar Regions",
+            "Impact of Climate Change",
+            "Record-breaking Temperatures",
+            "Other",
+            "Marine Biodiversity"
+        ],
+        "Biodiversity": [
+            "Impact of Climate Change",
+            "Other",
+            "Deforestation",
+            "Biodiversity",
+            "Marine Biodiversity"
+        ],
+        "Global Warming\n": [],
+        "Marine Biodiversity": [
+            "Marine Biodiversity",
+            "Other"
+        ],
+        "Other": [],
+        "Biodiversity\n": []
+    },
+    "Other": {}
+}

@@ -1,0 +1,94 @@
+{
+    "Vaccine Safety and Effectiveness": {
+        "Vaccine-Related Injuries and Deaths": [
+            "Other",
+            "Vaccine-Related Injuries and Deaths"
+        ],
+        "Vaccine Side Effects": [
+            "Vaccine Impact on Heart Disease",
+            "Cancer Side Effect",
+            "Myocarditis Side Effect",
+            "Vaccine-Related Injuries and Deaths"
+        ],
+        "Vaccine Effectiveness": [],
+        "Other": [],
+        "Scientific and Medical Discussions": [
+            "Discussions about Hepatitis",
+            "Other"
+        ],
+        "Vaccine-Related Injuries and Deaths\n": [],
+        "Scientific and Medical Discussions\n": [],
+        "Vaccine Impact\n": [],
+        "Vaccine Safety and Effectiveness": [],
+        "Vaccine Impact": [
+            "Other",
+            "Vaccine Impact on Heart Disease"
+        ],
+        "Vaccine Side Effects\n": [],
+        "Vaccine Effectiveness\n": [],
+        "": []
+    },
+    "Government Policies": {
+        "Vaccine Mandates": [
+            "Other",
+            "Vaccine Privacy",
+            "Opposition to Vaccine Mandates"
+        ],
+        "Vaccine Policies": [
+            "Vaccine Privacy",
+            "Opposition to Vaccine Mandates",
+            "Other",
+            "Vaccine Pricing"
+        ],
+        "Vaccine Policies\n": [],
+        "Vaccine Mandates\n": [],
+        "Other": []
+    },
+    "Political and Societal Implications": {
+        "Vaccine Injury\n": [],
+        "": [],
+        "Conspiracy Theories": [],
+        "Other": [],
+        "Vaccine Injury": []
+    },
+    "Personal Experiences and Opinions": {
+        "Other": [],
+        "Vaccine Acceptance\n": [],
+        "Vaccine Refusal": [],
+        "": []
+    },
+    "Vaccine Production": {
+        "Vaccine Manufacturing": [
+            "Investigation of Manufacturers",
+            "Other",
+            "Investigation of  Manufacturers"
+        ],
+        "Vaccine Manufacturing\n": []
+    },
+    "Public Opinion": {
+        "Vaccine Acceptance": [],
+        "Vaccine Refusal\n": [],
+        "Other": []
+    },
+    "Vaccine Distribution and Administration": {
+        "Vaccine Impact": [
+            "Other",
+            "Vaccine Impact on Heart Disease"
+        ],
+        "Vaccine Acceptance\n": [],
+        "Vaccine Impact\n": [],
+        "": [],
+        "Other": [],
+        "Vaccine Policies": [
+            "Other",
+            "Vaccine Privacy"
+        ],
+        "Vaccine Manufacturing": [
+            "Investigation of Manufacturers",
+            "Investigation of  Manufacturers"
+        ],
+        "Vaccine Waste\n": []
+    },
+    "Other": {},
+    "Vaccine Distribution and Administration\n": []
+}

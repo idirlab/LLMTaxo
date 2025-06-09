@@ -1,0 +1,111 @@
+{
+    "Emerging Trends": {
+        "Cloud Security": [
+            "Other",
+            "Cloud Repatriation"
+        ],
+        "Cybersecurity Events\n": [],
+        "Cybersecurity Events": [],
+        "Cloud Security\n": [],
+        "Artificial Intelligence": [],
+        "Cybersecurity": [
+            "AI in Cybersecurity",
+            "Other"
+        ],
+        "Other": [],
+        "AI in Cybersecurity\n": [],
+        "IoT Security": [],
+        "": []
+    },
+    "Education": {
+        "Cybersecurity Training\n": [],
+        "Cybersecurity Training": [
+            "Vulnerability Assessment and Penetration Testing Training",
+            "Other",
+            "Cybersecurity Awareness"
+        ],
+        "": []
+    },
+    "Policies and Governance": {
+        "Government Regulations": [
+            "Cybersecurity Information Sharing",
+            "Other",
+            "Challenges in Cybersecurity Information Sharing",
+            "Cybersecurity Levy on Transactions"
+        ],
+        "International Cooperation": [
+            "Challenges in Cybersecurity Information Sharing",
+            "Cybersecurity Partnership Between Slovenia and U.S."
+        ],
+        "International Cooperation\n": [],
+        "Government Regulations\n": []
+    },
+    "Threats": {
+        "Cyberattacks": [
+            "Cyberattacks",
+            "Cyberattacks on Critical Infrastructure",
+            "Other",
+            "Chinese Cyberattacks on Philippine Websites",
+            "Malware on Android Phones",
+            "Ransomware",
+            "Ransomware Attacks",
+            "Zero-Day Vulnerability",
+            "Phishing Examples",
+            "Ransomware Attack",
+            "DDoS Attacks"
+        ],
+        "Phishing Attacks": [],
+        "Cyberattacks\n": [],
+        "Data Breaches\n": [],
+        "Data Breaches": [
+            "Home Depot Data Breach",
+            "Other"
+        ],
+        "Other": [],
+        "Phishing Attacks\n": []
+    },
+    "Workforce": {
+        "Leadership\n": [],
+        "Cybersecurity Training": [
+            "Other",
+            "Cybersecurity Career Opportunities",
+            "Cybersecurity Awareness",
+            "Vulnerability Assessment and Penetration Testing Training"
+        ],
+        "Leadership": [
+            "Other",
+            "Leadership Gaps"
+        ],
+        "Cybersecurity Careers\n": [],
+        "Cybersecurity Training\n": [],
+        "Cybersecurity Jobs\n": [],
+        "Cybersecurity": [],
+        "Other": [],
+        "": []
+    },
+    "Security Solutions": {
+        "Data Protection": [
+            "Encrypted USB",
+            "Other"
+        ],
+        "Data Protection\n": [],
+        "Other": [],
+        "": []
+    },
+    "Corporate Security": {
+        "Small Business Cybersecurity\n": [],
+        "Other": [],
+        "Small Business Cybersecurity": [],
+        "Recycling and Disposal Policies": []
+    },
+    "Incident Management": {
+        "Other": [],
+        "Digital Forensics": [
+            "Other",
+            "Insights into Digital Forensics"
+        ],
+        "": [],
+        "Digital Forensics\n": []
+    },
+    "Other": {}
+}
